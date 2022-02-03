@@ -1,0 +1,137 @@
+.top_nav {
+  background-image: linear-gradient(to right, #054984, #0e87f2);
+}
+
+.navbar-brand {
+  margin-top: 5px;
+  margin-left: 30px !important;
+  line-height: 20px;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn_logs {
+  margin-right: 30px !important;
+}
+
+.second_nav {
+  display: none;
+  box-shadow: 0px 2px #bbbbbb;
+  border-bottom: 2px solid #aaaaaa;
+}
+
+.btn_register_demo {
+  margin-right: 10%;
+}
+
+.row_1 {
+  color: #192f60;
+  background-color: #dce8fe;
+  line-height: 40px;
+  padding-bottom: 10px;
+}
+
+.row_2 {
+  background-color: #f6f9ff;
+  padding-left: 20px;
+  line-height: 25px !important;
+  padding-top: 20px !important;
+  padding-bottom: 30px !important;
+}
+
+.date_time_for_demo {
+  padding-top: 20px !important;
+  padding-bottom: 20px;
+  color: #192f60;
+  background-color: #ffffff !important;
+  width: fit-content;
+  margin-left: 20px;
+}
+
+.date_time_for_demo span {
+  margin: 20px;
+}
+
+.row_2_2 .col-md-4 {
+  color: #192f60;
+  background-color: #ffffff !important;
+  border: 5px solid #f6f9ff;
+}
+
+.row_3 .col-md-2 img {
+  width: 50%;
+}
+
+.html_img,
+.css_img {
+  width: 10% !important;
+}
+
+.row_4 {
+  background-color: #f6f9ff;
+}
+
+#companies{
+  box-shadow: gray 1px 1px 5px;
+  /* border-right: black 2px solid;
+  border-bottom: 2px solid black; */
+}
+
+/* .companiess{
+  border-right: gray 1px solid;
+  border-bottom: 1px solid  gray;
+  /* padding: 2%; */
+  /* margin-right: 2%; */
+} */
+
+
+.head{
+  background-color: rgb(218, 210, 210)
+}
+
+.fromedit{
+  border: 2px solid rgb(179, 179, 255);
+  box-shadow: gray 1px 1px 5px;
+}
+
+#highlight{
+  margin-top: 2%;
+  background-color: rgb(82, 187, 219);
+  color: white;
+  padding:3% ;
+}
+
+.Projectdetails{
+  box-shadow: gray 1px 1px 5px;
+  border: 1px solid gray;
+}
+
+
+.iconedit{
+  float: left ;
+  margin: 2%;
+}
+
+.block1{
+  /* border: 2px solid black; */
+  background-color: rgb(152, 221, 253);
+  padding: 2%;
+  margin: 2%;
+  margin-left: 5%;
+}
+
+.block2{
+  /* border: 2px solid black; */
+  background-color: rgb(160, 197, 253);
+  padding: 2%;
+  margin: 2%;
+}
+
+.registerpartedit{
+  box-shadow: gray 1px 1px 5px;
+ /* margin-left: 1%; */
+ margin-top: 6%;
+ padding: 3%;
+ height: fit-content;
+}
